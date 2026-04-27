@@ -73,7 +73,5 @@ Precision: 0.9396
 Recall : 0.9395
 F1-score : 0.9395
 
-Hal ini mengindikasikan ada sesuatu yang sangat salah. Accuracy Decision Tree hanya 11.8%, artinya dari 100 prediksi, hanya 12 yang benar. Naive Bayes dan SVM sedikit lebih baik (sekitar 25-27%) tapi masih di bawah rata-rata 50%.
-
 10. Hasil
 Hasil yang sangat rendah menegaskan bahwa tidak ada model yang mampu menemukan pola.
