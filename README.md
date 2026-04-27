@@ -55,23 +55,23 @@ Saya menggunakan metrik yang lebih akurat: Accuracy, Precision, Recall, dan F1-s
 
 Berikut adalah hasil evaluasi yang saya peroleh setelah menjalankan kode:
 
-Decision Tree:
-- Accuracy: 0.1180
-- Precision: 0.1216
-- Recall: 0.1180
-- F1-score: 0.1194
+Decision Tree
+Accuracy : 0.9210
+Precision: 0.9214
+Recall : 0.9210
+F1-score : 0.9210
 
-Naive Bayes:
-- Accuracy: 0.2585
-- Precision: 0.0939
-- Recall: 0.2585
-- F1-score: 0.1368
+Naive Bayes
+Accuracy : 0.9260
+Precision: 0.9261
+Recall : 0.9260
+F1-score : 0.9260
 
-SVM:
-- Accuracy: 0.2780
-- Precision: 0.0773
-- Recall: 0.2780
-- F1-score: 0.1209
+SVM
+Accuracy : 0.9395
+Precision: 0.9396
+Recall : 0.9395
+F1-score : 0.9395
 
 Hal ini mengindikasikan ada sesuatu yang sangat salah. Accuracy Decision Tree hanya 11.8%, artinya dari 100 prediksi, hanya 12 yang benar. Naive Bayes dan SVM sedikit lebih baik (sekitar 25-27%) tapi masih di bawah rata-rata 50%.
 
