@@ -13,7 +13,7 @@ Variabel input fitur pada dataset ini meliputi nama buah, yang akan saya jadikan
 2. Pengumpulan dan Load Data
 Langkah pertama yang saya lakukan dalam eksperimen ini adalah mengumpulkan data yang akan digunakan. Dataset yang saya gunakan bernama `citrus.csv`.
 
-Untuk memuat data ke dalam praktik menggunakan vscode (visual studio code), saya menguunakan library `pandas`. Berikut adalah potongan kode yang saya jalankan:
+Untuk memuat data ke dalam praktik menggunakan Googlw Colab, saya menguunakan library `pandas`. Berikut adalah potongan kode yang saya jalankan:
 
 python
 import pandas as pd
